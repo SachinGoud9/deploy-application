@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SachinGoud9/deploy-application/issues"
   },
-  "homepage": "https://github.com/SachinGoud9/deploy-application#readme"
+  "homepage": "https://github.com/SachinGoud9/deploy-application#readme",
+  "publishConfig": {
+    "@YOUR-USERNAME:registry": "https://npm.pkg.github.com"
+  }
 }
